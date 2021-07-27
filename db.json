@@ -54,25 +54,25 @@
             "nama": "Contoh Nama Barang 2",
             "harga": "120000",
             "deskripsi": "contoh  deskripsi barang 2",
-            "foto": "https://raw.githubusercontent.com/arifbw/sonamotor-db-json/main/file_gbr/product2.jpg"
+            "foto": "https://raw.githubusercontent.com/arifbw/sonamotor-db-json/main/file_gbr/product2.png"
         },
         {
             "nama": "Contoh Nama Barang 3",
             "harga": "99000",
             "deskripsi": "contoh  deskripsi barang 3",
-            "foto": "https://raw.githubusercontent.com/arifbw/sonamotor-db-json/main/file_gbr/product3.jpg"
+            "foto": "https://raw.githubusercontent.com/arifbw/sonamotor-db-json/main/file_gbr/product3.png"
         },
         {
             "nama": "Contoh Nama Barang 4",
             "harga": "45000",
             "deskripsi": "contoh  deskripsi barang 4",
-            "foto": "https://raw.githubusercontent.com/arifbw/sonamotor-db-json/main/file_gbr/product4.jpg"
+            "foto": "https://raw.githubusercontent.com/arifbw/sonamotor-db-json/main/file_gbr/product4.png"
         },
         {
             "nama": "Contoh Nama Barang 5",
             "harga": "350000",
             "deskripsi": "contoh  deskripsi barang 5",
-            "foto": "https://raw.githubusercontent.com/arifbw/sonamotor-db-json/main/file_gbr/product5.jpg"
+            "foto": "https://raw.githubusercontent.com/arifbw/sonamotor-db-json/main/file_gbr/product5.png"
         }
     ]
 }
