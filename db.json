@@ -1,0 +1,100 @@
+{
+    "kata_babe": [
+        {
+            "kata": "lorem ipsum"
+        },
+        {
+            "kata": "asdasd"
+        },
+        {
+            "kata": "asdasd"
+        },
+        {
+            "kata": "asdasds"
+        },
+        {
+            "kata": "asdasd"
+        }
+    ],
+    "video": [
+        {
+            "nama": "AJIIIBBB....!!! INI DIA 3 JURUS BABE HAIKAL SUPAYA KAGAK BAPERAN",
+            "link": "https://www.youtube.com/watch?v=_BPOCUnhgiE"
+        },
+        {
+            "nama": "3 TIPS BABE HAIKAL: DAHSYAT...! TRICK MENYELEMATKAN RUMAHTANGGA",
+            "link": "https://www.youtube.com/watch?v=OEPQWR9j7S0"
+        },
+        {
+            "nama": "3 TIPS BABE HAIKAL MENGHADAPI NEW NORMAL",
+            "link": "https://www.youtube.com/watch?v=hts3i5LgVVg"
+        },
+        {
+            "nama": "3Tips Babe Haikal Hassan: Babe Bocorin Rahasia Cara Taklukan Suami...!",
+            "link": "https://www.youtube.com/watch?v=njZmg-Pazvs"
+        },
+        {
+            "nama": "3Tips Babe Haikal: Kiat Mencapai Keinginan",
+            "link": "https://www.youtube.com/watch?v=6gsUpu5l06E"
+        }
+    ],
+    "podcast": [
+        {
+            "judul": "contoh judul podcast 1",
+            "durasi": "05:40",
+            "link": "https://raw.githubusercontent.com/arifbw/babeh-db-json/main/file/gbr_podcast/1.jpg"
+        },
+        {
+            "judul": "contoh judul podcast 2",
+            "durasi": "02:31",
+            "link": "https://raw.githubusercontent.com/arifbw/babeh-db-json/main/file/gbr_podcast/2.jpg"
+        },
+        {
+            "judul": "contoh judul podcast 3",
+            "durasi": "06:32",
+            "link": "https://raw.githubusercontent.com/arifbw/babeh-db-json/main/file/gbr_podcast/3.jpg"
+        },
+        {
+            "judul": "contoh judul podcast 4",
+            "durasi": "08:09",
+            "link": "https://raw.githubusercontent.com/arifbw/babeh-db-json/main/file/gbr_podcast/4.jpg"
+        },
+        {
+            "judul": "contoh judul podcast 5",
+            "durasi": "10:31",
+            "link": "https://raw.githubusercontent.com/arifbw/babeh-db-json/main/file/gbr_podcast/5.jpg"
+        }
+    ],
+    "lapak": [
+        {
+            "nama": "Contoh Nama Barang 1",
+            "harga": "99000",
+            "deskripsi": "contoh  deskripsi barang 1",
+            "foto": "https://raw.githubusercontent.com/arifbw/babeh-db-json/main/file/gbr_lapak/1.jfif"
+        },
+        {
+            "nama": "Contoh Nama Barang 2",
+            "harga": "120000",
+            "deskripsi": "contoh  deskripsi barang 2",
+            "foto": "https://raw.githubusercontent.com/arifbw/babeh-db-json/main/file/gbr_lapak/2.jfif"
+        },
+        {
+            "nama": "Contoh Nama Barang 3",
+            "harga": "99000",
+            "deskripsi": "contoh  deskripsi barang 3",
+            "foto": "https://raw.githubusercontent.com/arifbw/babeh-db-json/main/file/gbr_lapak/3.jfif"
+        },
+        {
+            "nama": "Contoh Nama Barang 4",
+            "harga": "45000",
+            "deskripsi": "contoh  deskripsi barang 4",
+            "foto": "https://raw.githubusercontent.com/arifbw/babeh-db-json/main/file/gbr_lapak/4.jfif"
+        },
+        {
+            "nama": "Contoh Nama Barang 5",
+            "harga": "350000",
+            "deskripsi": "contoh  deskripsi barang 5",
+            "foto": "https://raw.githubusercontent.com/arifbw/babeh-db-json/main/file/gbr_lapak/5.jfif"
+        }
+    ]
+}
